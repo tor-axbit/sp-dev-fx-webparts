@@ -49,5 +49,8 @@
     "gulp": "~3.9.1",
     "gulp-sequence": "1.0.0",
     "typescript": "~3.3.x"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.9"
   }
 }
